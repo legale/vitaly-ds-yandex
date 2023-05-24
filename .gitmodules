@@ -1,0 +1,21 @@
+[submodule "Educational_project_1_DA"]
+	path = Educational_project_1_DA
+	url = https://github.com/Vitaliy-Zaitsev/Educational_project_1_DA
+[submodule "Educational_project_2_ML_Classification"]
+	path = Educational_project_2_ML_Classification
+	url = https://github.com/Vitaliy-Zaitsev/Educational_project_2_ML_Classification
+[submodule "Educational_project_3_ML_Classification"]
+	path = Educational_project_3_ML_Classification
+	url = https://github.com/Vitaliy-Zaitsev/Educational_project_3_ML_Classification
+[submodule "Educational_project_4_ML_NLP"]
+	path = Educational_project_4_ML_NLP
+	url = https://github.com/Vitaliy-Zaitsev/Educational_project_4_ML_NLP
+[submodule "Educational_project_5_ML_TimeSeries"]
+	path = Educational_project_5_ML_TimeSeries
+	url = https://github.com/Vitaliy-Zaitsev/Educational_project_5_ML_TimeSeries
+[submodule "Educational_project_6_ML_Linear_algebra"]
+	path = Educational_project_6_ML_Linear_algebra
+	url = https://github.com/Vitaliy-Zaitsev/Educational_project_6_ML_Linear_algebra
+[submodule "Educational_project_7_ML_Data_preprocessing"]
+	path = Educational_project_7_ML_Data_preprocessing
+	url = https://github.com/Vitaliy-Zaitsev/Educational_project_7_ML_Data_preprocessing
